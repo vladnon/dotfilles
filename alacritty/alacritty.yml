@@ -1,0 +1,22 @@
+font:
+    normal:
+        famyly: Cascadia Mono Polo
+        style: Regular
+
+    italic:
+        famyly: Cascadia Mono Polo
+        style: Italic
+    bold:
+        famyly: Cascadia Mono Polo
+        style: Bold
+    bold_italic:
+        famyly: Cascadia Mono Polo
+        style: Bold Italic
+    size: 11
+
+
+        
+            
+        
+
+
