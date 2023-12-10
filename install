@@ -1,0 +1,2 @@
+sudo dnf install bspwm shxkd pulseaubio pavucontrol polybar thunar rofi 
+sudo flatpak install flathub edge code telegram whatsap
