@@ -1,2 +1,2 @@
-sudo dnf install bspwm shxkd pulseaubio pavucontrol polybar thunar rofi nitrogen picom
-sudo flatpak install flathub edge code telegram whatsap
+sudo pacman -S bspwm shxkd pulseaubio pavucontrol polybar thunar rofi nitrogen picom alacritty
+sudo flatpak install flathub edge code telegram 
