@@ -1,19 +1,16 @@
+ 
+  
 font:
-    normal:
-        famyly: Cascadia Mono Polo
-        style: Regular
-
-    italic:
-        famyly: Cascadia Mono Polo
-        style: Italic
-    bold:
-        famyly: Cascadia Mono Polo
-        style: Bold
-    bold_italic:
-        famyly: Cascadia Mono Polo
-        style: Bold Italic
-    size: 11
-
+  size: 11
+  normal:
+    family: SourceCodePro
+    style: Regular
+  bold:
+    family: SourceCodePro
+    style: Bold
+  italic:
+    family: SourceCodePro
+    style:  Italic
 
         
             

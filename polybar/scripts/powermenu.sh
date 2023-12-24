@@ -1,4 +1,5 @@
 #! /bin/sh
+#! /bin/sh
 
 rofi_cmd() {
 	rofi -dmenu \
@@ -15,3 +16,4 @@ case "$chosen" in
 	*) exit 1 ;;
 
 esac
+

@@ -2,35 +2,37 @@
 
 # Autostarts
 sxhkd &
-/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+# /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+sudo systemctl NetworkManager.service & 
 picom --config ~/.config/picom/picom.conf &
+nmcli d wifi connect Olga-Router-5G password 9851707777 &
 xsetroot -cursor_name left_ptr &
 polybar &
-firefox &
+flatpak run com.microsoft.Edge &
 alacritty & 
 flatpak run org.telegram.desktop &
-code &
+flatpak run com.visualstudio.code &
 pavucontrol &
 xrandr --output DP-0 --mode 1920x1080 --rate 165 &
 nitrogen --restore &
-bspc monitor -d chill code typing sound other
+bspc monitor -d main code typing sound other
 
-bspc config border_width         3
-bspc config window_gap          12
+bspc config border_width         6
+bspc config window_gap          13
 bspc config split_ratio          0.50
 bspc config borderless_monocle   true
-bspc config gapless_monocle      true
+# bspc config gapless_monocle      true
 bspc config focus_follows_pointer true
 
-# Desktop 14
-bspc rule -a firefox desktop='^1' follow=on focus=on;
+# Desktop 1
+bspc rule -a Edge desktop='^1' follow=on focus=on;
 bspc rule -a alacritty desktop='^1' follow=on focus=on;
 bspc rule -a TelegramDesktop desktop='^1' follow=on focus=on;
 
 # Desktop 2
 bspc rule -a Code desktop='^2' follow=on focus=on;
 # Desktop 4
-bspc rule -a pavucontrol desktop='^4' follow=on focus=on;
+bspc rule -a pavucontrol  desktop='^4' follow=on focus=on;
 
 #bspwm colores
 # bspc config normal_border_color         "#51576d"
