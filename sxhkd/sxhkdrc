@@ -30,6 +30,7 @@ XF86AudioLowerVolume
 # Выключение звука
 XF86AudioMute
     pactl set-sink-mute @DEFAULT_SINK@ toggle
+    
 
 #
 # bspwm hotkeys
@@ -159,5 +160,5 @@ ctrl + space
 	flameshot gui
 
 # Custom betterlockscreen
-ctrl + alt + l
-	betterlockscreen -l dim
+super + l
+	betterlockscreen -l dim	
