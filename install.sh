@@ -29,7 +29,7 @@ if [ -d "dotfilles" ]; then
     cd dotfilles
     git pull
 else
-    git clone https://github.com/Vlad1ckPON/dotfilles
+    git clone https://github.com/Vlad1ckPON/dotfilles -b main
 fi
  
 cp -r /home/$USER/Documents/dotfilles/* /home/$USER/.config/
