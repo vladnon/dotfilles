@@ -10,7 +10,6 @@ cp /usr/share/doc/bspwm/examples/bspwmrc /home/$USER/.config/bspwm/
 cp /usr/share/doc/bspwm/examples/sxhkdrc /home/$USER/.config/sxhkd/
 xdg-user-dirs-update
 
-echo 'All pacman apps installed successfully, start installing yay'
 
 # установка yay
 cd /home/$USER/Downloads/
@@ -19,16 +18,13 @@ cd yay
 makepkg -si --noconfirm
 cd
 
-echo 'yay installed successfully, start installing aur apps'
 yay -S --noconfirm telegram-desktop visual-studio-code-bin chromium font-manager cava cmatrix
 
-echo 'установка и настройка astranvim'
 npm install node pyright tree-sitter-cli
 git clone --depth 1 https://github.com/AstroNvim/template ~/.config/nvim
 # remove template's git connection to set up your own later
 rm -rf ~/.config/nvim/.git
 
-echo 'aur installed successfully, start cloning config repo'
 cd /home/$USER/Documents/
 
 if [ -d "dotfilles" ]; then
