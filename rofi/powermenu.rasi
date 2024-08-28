@@ -1,8 +1,11 @@
+
 configuration {
 	display-drun: "";
 	display-clipboard: "";
-	drun-display-format: "{name}";
+	drun-display-format: "{icon} {name}";
 	modi: "drun";
+	show-icons: true;
+	icon-theme: "Papirus";
 }
 
 @import "~/.config/rofi/colors.rasi"
@@ -130,3 +133,4 @@ element.alternate.active {
 	background-color: @bg;
 	text-color: @fg;
 }
+
