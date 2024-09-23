@@ -2,33 +2,27 @@
 
 # Autostarts
 sxhkd &
-nmcli d wifi connect Olga password 9851707777 &
-picom  & 
+picom & 
 xsetroot -cursor_name left_ptr &
-polybar  bar1&
+polybar bar1 --experimental-backends&
 chromium &
 alacritty & 
 telegram-desktop & 
-code &
-pavucontrol &
-# xrandr --output DP-0 --mode 1920x1080 --rate 165 &
+xrandr --output DP-0 --mode 1920x1080 --rate 165 &
 nitrogen --restore &
-bspc monitor -d main code sound other
+bspc monitor -d 1 2 3 4 5 6 
 
-bspc config border_width         2
-bspc config window_gap          7
-bspc config split_ratio          0.50
+bspc config border_width         1
+bspc config window_gap          12
+bspc config split_ratio          0.5
 bspc config borderless_monocle   true
 # bspc config gapless_monocle      true
+bspc config active_border_color #1a1b26
+bspc config active_border_color #1a1b26
 bspc config focus_follows_pointer true
 
 # Desktop 1
 bspc rule -a chromium  desktop='^1' follow=on focus=on;
 bspc rule -a alacritty desktop='^1' follow=on focus=on;
 bspc rule -a TelegramDesktop desktop='^1' follow=on focus=on;
-
-# Desktop 2
-bspc rule -a Code desktop='^2' follow=on focus=on;
-# Desktop 4
-bspc rule -a pavucontrol desktop='^3';
 
