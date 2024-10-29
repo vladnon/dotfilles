@@ -1,6 +1,0 @@
-2024/09/21-19:42:09.769 2216 Creating DB /home/vlad/.config/chromium/Default/IndexedDB/https_dzen.ru_0.indexeddb.leveldb since it was missing.
-2024/09/21-19:42:09.778 2216 Reusing MANIFEST /home/vlad/.config/chromium/Default/IndexedDB/https_dzen.ru_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/21-21:16:01.806 2218 Level-0 table #5: started
-2024/09/21-21:16:01.809 2218 Level-0 table #5: 1822 bytes OK
-2024/09/21-21:16:01.815 2218 Delete type=0 #3
-2024/09/21-21:16:01.815 2218 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

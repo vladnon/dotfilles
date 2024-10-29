@@ -1,7 +1,0 @@
-2024/09/20-22:17:34.116 326 Reusing MANIFEST /home/vlad/.config/chromium/Default/IndexedDB/https_www.nvidia.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/20-22:17:34.116 326 Recovering log #3
-2024/09/20-22:17:34.116 326 Reusing old log /home/vlad/.config/chromium/Default/IndexedDB/https_www.nvidia.com_0.indexeddb.leveldb/000003.log 
-2024/09/20-22:17:42.083 327 Level-0 table #5: started
-2024/09/20-22:17:42.086 327 Level-0 table #5: 793 bytes OK
-2024/09/20-22:17:42.091 327 Delete type=0 #3
-2024/09/20-22:17:42.092 327 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,6 +1,0 @@
-2024/09/23-20:43:54.318 1ede Creating DB /home/vlad/.config/chromium/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb since it was missing.
-2024/09/23-20:43:54.327 1ede Reusing MANIFEST /home/vlad/.config/chromium/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/23-20:45:49.221 1edf Level-0 table #5: started
-2024/09/23-20:45:49.225 1edf Level-0 table #5: 1008 bytes OK
-2024/09/23-20:45:49.230 1edf Delete type=0 #3
-2024/09/23-20:45:49.231 1edf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
