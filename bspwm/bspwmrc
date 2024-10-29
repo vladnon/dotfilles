@@ -4,8 +4,11 @@
 sxhkd &
 picom & 
 xsetroot -cursor_name left_ptr &
-polybar bar1 --experimental-backends&
+polybar bar1 &
+alacritty -e nvim &
 chromium &
+yandex-music &
+steam &
 alacritty & 
 telegram-desktop & 
 xrandr --output DP-0 --mode 1920x1080 --rate 165 &
@@ -25,4 +28,13 @@ bspc config focus_follows_pointer true
 bspc rule -a chromium  desktop='^1' follow=on focus=on;
 bspc rule -a alacritty desktop='^1' follow=on focus=on;
 bspc rule -a TelegramDesktop desktop='^1' follow=on focus=on;
+
+# Desktop 2
+bspc rule -a nvim  desktop='^2' follow=on focus=on;
+
+# Desktop 3
+bspc rule -a yandex-music desktop='^3' follow=on focus=on;
+
+# Desktop 4
+bspc rule -a steam desktop='^4' follow=on focus=on;
 
