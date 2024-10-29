@@ -1,0 +1,996 @@
+{
+   "about_title": {
+      "message": "Over"
+   },
+   "account_edit": {
+      "message": "Account beheren"
+   },
+   "account_free": {
+      "message": "Gratis account"
+   },
+   "account_get_subscription": {
+      "message": "Abonnement afsluiten"
+   },
+   "account_max_devices_count": {
+      "message": "Tot %num% gelijktijdige apparaten"
+   },
+   "account_monthly_paid": {
+      "message": "Maandelijks betaald abonnement"
+   },
+   "account_next_charge": {
+      "message": "Volgende factuurdatum %date%"
+   },
+   "account_sign_out": {
+      "message": "Afmelden"
+   },
+   "account_title": {
+      "message": "Account"
+   },
+   "account_two_year_paid": {
+      "message": "Tweejarig betaald abonnement"
+   },
+   "account_unlimited": {
+      "message": "Onbeperkt abonnement"
+   },
+   "account_unlimited_title": {
+      "message": "De Unlimited-versie verkrijgen!"
+   },
+   "account_version": {
+      "message": "Versie"
+   },
+   "account_yearly_paid": {
+      "message": "Jaarlijks betaald abonnement"
+   },
+   "auth_confirm": {
+      "message": "Bevestigen"
+   },
+   "auth_email": {
+      "message": "E-mailadres"
+   },
+   "auth_header_2fa": {
+      "message": "Je authenticatiecode invoeren"
+   },
+   "auth_header_2fa_subtitle": {
+      "message": "Two-factor authenticatie"
+   },
+   "auth_header_sing_in_notice": {
+      "message": "Aanmelden als \u003Cspan>%username%\u003C/span>"
+   },
+   "auth_password": {
+      "message": "Wachtwoord"
+   },
+   "auth_password_confirm": {
+      "message": "Bevestig wachtwoord"
+   },
+   "auth_placeholder_2fa": {
+      "message": "Authenticatiecode"
+   },
+   "auth_recover": {
+      "message": "Wachtwoord vergeten?"
+   },
+   "auth_sign_in": {
+      "message": "Voer je wachtwoord in"
+   },
+   "auth_sign_in_button": {
+      "message": "Aanmelden"
+   },
+   "auth_sign_in_provider_adguard": {
+      "message": "Doorgaan met e-mail"
+   },
+   "auth_sign_in_provider_adguard_label": {
+      "message": "E-mail"
+   },
+   "auth_sign_in_provider_apple": {
+      "message": "Doorgaan met Apple"
+   },
+   "auth_sign_in_provider_facebook": {
+      "message": "Doorgaan met Facebook"
+   },
+   "auth_sign_in_provider_google": {
+      "message": "Doorgaan met Google"
+   },
+   "auth_sign_up": {
+      "message": "Registreren"
+   },
+   "auth_sign_up_button": {
+      "message": "Registreren"
+   },
+   "auth_sign_up_info": {
+      "message": "Je AdGuard-account aanmaken"
+   },
+   "auth_title": {
+      "message": "Aanmelden bij of registreren van een account"
+   },
+   "auth_your_password": {
+      "message": "Je wachtwoord"
+   },
+   "authentication_error_2fa_invalid": {
+      "message": "Ongeldig token"
+   },
+   "authentication_error_2fa_required": {
+      "message": "2FA is vereist"
+   },
+   "authentication_error_account_disabled": {
+      "message": "Account is uitgeschakeld"
+   },
+   "authentication_error_account_locked": {
+      "message": "Account is vergrendeld gedurende 15 minuten"
+   },
+   "authentication_error_default": {
+      "message": "Er is een fout opgetreden. Probeer later opnieuw"
+   },
+   "authentication_error_wrong_credentials": {
+      "message": "Verkeerd wachtwoord"
+   },
+   "authentication_successful_notification": {
+      "message": "Succesvol geauthenticeerd! Je kunt AdGuard VPN openen en gaan gebruiken."
+   },
+   "authentication_too_many_requests": {
+      "message": "We hebben te veel verzoeken ontvangen van jouw IP-adres. Probeer het later nog eens."
+   },
+   "confirm_email_code_invalid": {
+      "message": "Controleer de code. Deze lijkt onjuist"
+   },
+   "confirm_email_code_label": {
+      "message": "Bevestigingscode"
+   },
+   "confirm_email_code_placeholder": {
+      "message": "Bevat cijfers en letters"
+   },
+   "confirm_email_done_info": {
+      "message": "Bedankt voor het verifiëren!"
+   },
+   "confirm_email_done_title": {
+      "message": "E-mailadres bevestigd"
+   },
+   "confirm_email_info": {
+      "message": "We hebben een bevestigingscode gestuurd naar \u003Cspan>%email%\u003C/span>"
+   },
+   "confirm_email_no_auth_id_error_on_auth": {
+      "message": "Aanmelden is mislukt. Probeer het opnieuw of neem contact met ons op via \u003Ca>%support_email%\u003C/a>"
+   },
+   "confirm_email_no_auth_id_error_on_register": {
+      "message": "Registreren is mislukt. Probeer het opnieuw of neem contact met ons op via \u003Ca>%support_email%\u003C/a>"
+   },
+   "confirm_email_resend_code_button": {
+      "message": "Stuur nog een code"
+   },
+   "confirm_email_resend_code_button_disabled": {
+      "message": "Stuur nog een code (%count%)"
+   },
+   "confirm_email_title": {
+      "message": "Je e-mailadres bevestigen"
+   },
+   "context_menu_debug_level": {
+      "message": "Logboekregistratie van foutopsporing"
+   },
+   "context_menu_disable_vpn": {
+      "message": "VPN uitschakelen op deze website"
+   },
+   "context_menu_enable_vpn": {
+      "message": "VPN Inschakelen op deze website"
+   },
+   "context_menu_export_logs": {
+      "message": "Logboeken exporteren"
+   },
+   "context_menu_general_mode": {
+      "message": "Algemene modus"
+   },
+   "context_menu_selective_mode": {
+      "message": "Selectieve modus"
+   },
+   "control_error_description": {
+      "message": "Het lijkt erop dat een andere browseruitbreiding je verbinding probeert te beheren. Schakel de andere uitbreiding in je browser uit."
+   },
+   "control_error_disable": {
+      "message": "Uitschakelen"
+   },
+   "control_error_title": {
+      "message": "Uitbreidingsconflict"
+   },
+   "description": {
+      "description": "TEXT MAX LENGTH: 132",
+      "message": "AdGuard VPN gebruiken om snel en veilig op internet te surfen. Je privacy beschermen en anoniem blijven met onze privé-VPN-proxy."
+   },
+   "endpoints_all": {
+      "message": "Alle locaties"
+   },
+   "endpoints_countries": {
+      "message": "Locaties"
+   },
+   "endpoints_fastest": {
+      "message": "Snelste"
+   },
+   "endpoints_location_virtual": {
+      "message": "Virtueel"
+   },
+   "endpoints_not_found": {
+      "message": "Locaties niet gevonden"
+   },
+   "endpoints_search": {
+      "message": "Locatie zoeken"
+   },
+   "endpoints_search_results": {
+      "message": "Zoekresultaat"
+   },
+   "eula": {
+      "message": "EULA"
+   },
+   "global_error_description": {
+      "message": "Neem contact met ons op indien dit bericht steeds herhaald wordt"
+   },
+   "global_error_learn_more": {
+      "message": "Meer weten"
+   },
+   "global_error_message": {
+      "message": "Er is een fout opgetreden, neem contact met ons op via \u003Ca>%support_email%\u003C/a>"
+   },
+   "global_error_title": {
+      "message": "Er is een fout opgetreden"
+   },
+   "global_error_try_again": {
+      "message": "Probeer opnieuw"
+   },
+   "limited_offer_notification_desc": {
+      "message": "Flash-aanbieding duurt slechts 6 uur. Meer informatie in je AdGuard VPN-uitbreiding"
+   },
+   "limited_offer_notification_title": {
+      "description": "IMPORTANT: Be careful with percent sign after discount placeholder, it should be escaped with another percent sign",
+      "message": "%discount%%% korting op AdGuard VPN"
+   },
+   "name": {
+      "message": "AdGuard VPN — snelle & veilige proxy"
+   },
+   "notification_data_left_description": {
+      "message": "De snelheid van de VPN-verbinding wordt binnenkort verlaagd."
+   },
+   "notification_data_left_mb": {
+      "message": "Er is nog %num% MB over."
+   },
+   "notification_data_limit_reached_description": {
+      "message": "VPN-verbindingssnelheid is verlaagd."
+   },
+   "notification_data_limit_reached_title": {
+      "message": "Maandelijkse datalimiet bereikt"
+   },
+   "official_website": {
+      "message": "Officiële website"
+   },
+   "offline_title": {
+      "message": "Offline"
+   },
+   "options_bug_report_email_invalid": {
+      "message": "Ongeldig e-mailadres"
+   },
+   "options_bug_report_email_label": {
+      "message": "E-mail"
+   },
+   "options_bug_report_include_log_label": {
+      "message": "Het diagnoserapport toevoegen aan het bericht"
+   },
+   "options_bug_report_new_report_button": {
+      "message": "Nieuw rapport"
+   },
+   "options_bug_report_page_success": {
+      "message": "Bedankt, je bericht is succesvol verzonden!"
+   },
+   "options_bug_report_request_error": {
+      "message": "Er is een fout opgetreden. Probeer het later opnieuw."
+   },
+   "options_bug_report_send_button": {
+      "message": "Verzenden"
+   },
+   "options_bug_report_sending_button": {
+      "message": "Verzenden..."
+   },
+   "options_bug_report_textarea_invalid": {
+      "message": "Veld verplicht"
+   },
+   "options_bug_report_textarea_label": {
+      "message": "Bericht"
+   },
+   "options_bug_report_textarea_placeholder": {
+      "message": "Beschrijf hier je probleem..."
+   },
+   "options_exclusions_added_exclusions": {
+      "message": "Toegevoegde uitsluitingen: %count%"
+   },
+   "options_exclusions_delete_cancel_button": {
+      "message": "Annuleren"
+   },
+   "options_exclusions_deleted_exclusions": {
+      "message": "Verwijderde uitsluitingen: %count%"
+   },
+   "options_exclusions_import_error_wrong_extensions": {
+      "message": "Bestand met uitzonderingen dient een van deze uitbreidingen te bevatten: %extensions%"
+   },
+   "options_exclusions_import_error_wrong_extensions_in_zip": {
+      "message": "Zip-archief: %filename% bevat geen bestanden met uitbreidingen: %extensions%"
+   },
+   "options_exclusions_import_select_regular": {
+      "message": "Ik wil dat VPN uit staat voor deze websites"
+   },
+   "options_exclusions_import_select_selective": {
+      "message": "Selectieve lijst"
+   },
+   "options_exclusions_import_select_subtitle": {
+      "message": "Websites uit de geïmporteerde lijst worden toegevoegd aan de bestaande uitsluitingen"
+   },
+   "options_exclusions_import_select_title": {
+      "message": "Hoe deze lijst met uitsluitingen gebruiken?"
+   },
+   "options_exclusions_import_successful": {
+      "message": "Geïmporteerde uitzonderingen: %count%"
+   },
+   "options_exclusions_remove_all_success": {
+      "message": "Alle uitsluitingen voor de huidige modus zijn succesvol verwijderd."
+   },
+   "options_report_bug_title": {
+      "message": "Een fout rapporteren"
+   },
+   "options_signedout_page_description": {
+      "message": "Let op: je bent niet verbonden met VPN en je verkeer is niet beveiligd! Om privé verder te surfen, klik je op het AdGuard VPN-pictogram en meld je opnieuw aan."
+   },
+   "options_signedout_page_title": {
+      "message": "Je bent afgemeld bij AdGuard VPN"
+   },
+   "options_support_faq_description": {
+      "message": "Vragen en antwoorden"
+   },
+   "options_support_faq_title": {
+      "message": "Veel gestelde vragen"
+   },
+   "options_support_feedback_description": {
+      "message": "Functieverzoeken en suggesties indienen"
+   },
+   "options_support_feedback_title": {
+      "message": "Feedback geven"
+   },
+   "options_support_report_description": {
+      "message": "Ons een rapport over een potentiële fout sturen"
+   },
+   "options_support_report_title": {
+      "message": "Een fout rapporteren"
+   },
+   "options_support_title": {
+      "message": "Ondersteuning"
+   },
+   "options_title": {
+      "message": "AdGuard VPN Opties"
+   },
+   "popup_auth_help_us_improve_agreement": {
+      "message": "Ik sta AdGuard toe om \u003Clink>strikt anonieme gegevens\u003C/link> te verzamelen over het app gebruik om AdGuard VPN te verbeteren"
+   },
+   "popup_auth_policy_agreement": {
+      "description": "WARNING! Respect spaces between tags",
+      "message": "Ik heb de \u003Ceula>EULA\u003C/eula> en het \u003Cprivacy>Privacybeleid\u003C/privacy> gelezen en ga ermee akkoord"
+   },
+   "popup_auth_policy_agreement_continue_button": {
+      "message": "Doorgaan"
+   },
+   "popup_compare_button": {
+      "message": "Waarom de app beter is"
+   },
+   "popup_confirm_rate_modal_confirm_button": {
+      "message": "Naar de Extension Store gaan"
+   },
+   "popup_confirm_rate_modal_feedback_subtitle": {
+      "message": "Vertel ons wat er verkeerd ging"
+   },
+   "popup_confirm_rate_modal_feedback_title": {
+      "message": "Help ons te verbeteren"
+   },
+   "popup_confirm_rate_modal_leave_feedback_button": {
+      "message": "Feedback geven"
+   },
+   "popup_confirm_rate_modal_rate_title": {
+      "message": "Wauw! Kun je ons ook beoordelen in de Extension Store?"
+   },
+   "popup_connections_limit_description_cta_button_free": {
+      "message": "Abonneren"
+   },
+   "popup_connections_limit_description_cta_button_premium": {
+      "message": "Meer info"
+   },
+   "popup_connections_limit_description_end_free": {
+      "message": "Om meer apparaten toe te voegen, overweeg een Unlimited AdGuard VPN abonnement te nemen."
+   },
+   "popup_connections_limit_description_end_premium": {
+      "message": "Om nog een apparaat toe te voegen, moet je AdGuard VPN uitschakelen op één van je apparaten."
+   },
+   "popup_connections_limit_description_start": {
+      "message": "Je hebt het maximale aantal verbindingen bereikt: %maxDevicesAllowed%."
+   },
+   "popup_connections_limit_title": {
+      "message": "Maximaal aantal verbindingen bereikt"
+   },
+   "popup_feedback_button": {
+      "message": "Feedback geven"
+   },
+   "popup_feedback_title": {
+      "message": "We verheugen ons op je feedback"
+   },
+   "popup_free_traffic_info_days_left": {
+      "description": "Respect spaces between text, tags and placeholders. 40 characters max limit for every plural form",
+      "message": "Verkeer wordt vandaag vernieuwd | Verkeer wordt vernieuwd in %days% dag | Verkeer wordt vernieuwd in %days% dagen"
+   },
+   "popup_free_traffic_info_left": {
+      "description": "Respect spaces between text, tags and placeholders",
+      "message": "%value% %unit% over"
+   },
+   "popup_hint_popup_button": {
+      "message": "Begrepen"
+   },
+   "popup_hint_popup_content": {
+      "message": "Overigens kun je desgewenst VPN voor deze site uitschakelen"
+   },
+   "popup_host_permission_error_btn_allow": {
+      "message": "Toestaan"
+   },
+   "popup_host_permission_error_info": {
+      "message": "Om AdGuard VPN te gebruiken, moet je het toegang geven tot jouw gegevens op websites. We slaan deze gegevens niet op en delen deze met niemand. \u003Cprivacy>Privacybeleid\u003C/privacy>"
+   },
+   "popup_host_permission_error_title": {
+      "message": "Toegang tot websites toestaan"
+   },
+   "popup_limited_offer_details_btn": {
+      "message": "Pak de deal"
+   },
+   "popup_limited_offer_details_time_left": {
+      "message": "Resterende tijd: %time_left%"
+   },
+   "popup_limited_offer_details_title": {
+      "description": "IMPORTANT: Be careful with percent sign after discount placeholder, it should be escaped with another percent sign",
+      "message": "| AdGuard VPN Onbeperkt voor%count% jaar met \u003Cspan>%discount%%% korting\u003C/span> | AdGuard VPN Onbeperkt voor%count% jaar met \u003Cspan>%discount%%% korting\u003C/span>"
+   },
+   "popup_limited_offer_notice": {
+      "description": "IMPORTANT: Be careful with percent sign after discount placeholder, it should be escaped with another percent sign",
+      "message": "%discount%%% korting: \u003Cspan>%time_left%\u003C/span>"
+   },
+   "popup_newsletter_info": {
+      "message": "Mij e-mails sturen met speciale aanbiedingen en AdGuard-nieuws"
+   },
+   "popup_newsletter_no_subscribe": {
+      "message": "Nee, bedankt"
+   },
+   "popup_newsletter_subscribe": {
+      "message": "Abonneer"
+   },
+   "popup_newsletter_title": {
+      "message": "AdGuard-nieuwsbrief"
+   },
+   "popup_no_locations_button": {
+      "message": "Opnieuw zoeken"
+   },
+   "popup_no_locations_title": {
+      "message": "Locaties niet gevonden"
+   },
+   "popup_onboarding_next": {
+      "message": "Volgende"
+   },
+   "popup_onboarding_no_logging_policy": {
+      "message": "Geen logboekregistratie"
+   },
+   "popup_onboarding_no_logging_policy_info": {
+      "message": "AdGuard VPN maakt je anoniem. Het verzamelt of deelt jouw gegevens nooit met derden"
+   },
+   "popup_onboarding_sites_apps_exclusions": {
+      "message": "Uitsluitingen voor sites en apps"
+   },
+   "popup_onboarding_sites_apps_exclusions_info": {
+      "message": "Met uitsluitingen kunt je snel de sites of apps voor AdGuard VPN-bescherming specificeren"
+   },
+   "popup_onboarding_unique_protocol": {
+      "message": "Uniek VPN-protocol"
+   },
+   "popup_onboarding_unique_protocol_info": {
+      "message": "Het protocol van AdGuard VPN werkt snel en maakt je VPN-verkeer onopvallend"
+   },
+   "popup_rate_modal_cancel_button": {
+      "message": "Annuleren"
+   },
+   "popup_rate_modal_send_button": {
+      "message": "Verzenden"
+   },
+   "popup_rate_modal_subtitle": {
+      "message": "Ons beoordelen"
+   },
+   "popup_rate_modal_title": {
+      "message": "Hoe geweldig is AdGuard VPN?"
+   },
+   "popup_server_error_popup_action": {
+      "message": "Nudge AdGuard-team"
+   },
+   "popup_server_error_popup_cancel": {
+      "message": "Annuleren"
+   },
+   "popup_server_error_popup_close": {
+      "message": "Sluiten"
+   },
+   "popup_server_error_popup_info": {
+      "message": "Waarschijnlijk is de VPN in jouw land geblokkeerd of er was een technische storing. We proberen het al op te lossen"
+   },
+   "popup_server_error_popup_thankyou_message": {
+      "message": "Bedankt voor het laten weten!"
+   },
+   "popup_server_error_popup_thankyou_title": {
+      "message": "We werken eraan"
+   },
+   "popup_server_error_popup_title": {
+      "message": "Kan geen verbinding maken met server"
+   },
+   "popup_settings_disable_vpn": {
+      "message": "VPN uitschakelen voor deze website"
+   },
+   "popup_settings_enable_vpn": {
+      "message": "VPN inschakelen voor deze website"
+   },
+   "popup_settings_enable_vpn_short": {
+      "message": "Inschakelen"
+   },
+   "popup_settings_feedback": {
+      "message": "Feedback"
+   },
+   "popup_settings_open_settings": {
+      "message": "Instellingen"
+   },
+   "popup_settings_other_products": {
+      "message": "Andere Producten"
+   },
+   "popup_site_status_unaccessible": {
+      "message": "bevindt zich in jouw lokale netwerk en is niet toegankelijk via VPN"
+   },
+   "popup_site_status_vpn_disabled": {
+      "message": "VPN is uitgezet op deze website"
+   },
+   "popup_skeleton_status": {
+      "message": "Locaties zoeken..."
+   },
+   "popup_traffic_limit_exceeded_cta_btn": {
+      "message": "Snelheid verhogen"
+   },
+   "popup_traffic_limit_exceeded_description": {
+      "message": "Je hebt de gratis data limiet bereikt, en AdGuard VPN werkt traag."
+   },
+   "popup_traffic_limit_exceeded_title": {
+      "message": "Verbindingssnelheid is verlaagd"
+   },
+   "popup_traffic_limit_reached": {
+      "message": "Maandelijkse datalimiet bereikt"
+   },
+   "popup_traffic_limited_speed": {
+      "message": "Beperkte snelheid"
+   },
+   "popup_upgrade_screen_all_locations": {
+      "message": "Alle locaties"
+   },
+   "popup_upgrade_screen_all_locations_desc": {
+      "message": "6 continenten en tientallen landen. Kies een plaats en surf veilig op internet!"
+   },
+   "popup_upgrade_screen_connect_devices": {
+      "message": "Tot %potential_num% apparaten"
+   },
+   "popup_upgrade_screen_connect_devices_desc": {
+      "message": "Verbind al jouw gadgets tegelijkertijd met AdGuard VPN - of bescherm het hele gezin!"
+   },
+   "popup_upgrade_screen_continue_free": {
+      "message": "Doorgaan zonder kosten"
+   },
+   "popup_upgrade_screen_title": {
+      "message": "Onbeperkt VPN"
+   },
+   "popup_upgrade_screen_unlimited_data": {
+      "message": "Onbeperkte data"
+   },
+   "popup_upgrade_screen_unlimited_data_desc": {
+      "message": "De enige beperking is dat je gegevens nooit worden gedeeld. Surf naar hartelust!"
+   },
+   "popup_upgrade_screen_unlimited_speed": {
+      "message": "Onbeperkte snelheid"
+   },
+   "popup_upgrade_screen_unlimited_speed_desc": {
+      "message": "Geen snelheidsbeperkingen. Haal het maximale uit je dienstverlener!"
+   },
+   "popup_upgrade_screen_upgrade_button": {
+      "message": "Upgraden"
+   },
+   "popup_vpn_blocked_error_details_description": {
+      "message": "Als je verbindingsproblemen hebt, raden we aan over te schakelen op de desktopversie — die werkt soepeler"
+   },
+   "popup_vpn_blocked_error_details_get_app_button": {
+      "message": "Desktopversie downloaden"
+   },
+   "popup_vpn_blocked_error_details_later_button": {
+      "message": "Later"
+   },
+   "popup_vpn_blocked_error_details_title": {
+      "message": "De desktopversie is stabieler"
+   },
+   "popup_vpn_blocked_error_notice": {
+      "message": "Geen verbinding?"
+   },
+   "premium_upgrade": {
+      "message": "Upgraden"
+   },
+   "privacy_policy": {
+      "message": "Privacybeleid"
+   },
+   "rate_description": {
+      "message": "Hallo, we zijn een team van AdGuard en het is erg belangrijk voor ons om jouw mening over ons product te weten. Beoordeel het alsjeblieft."
+   },
+   "rate_hide": {
+      "message": "Verbergen"
+   },
+   "referral_get_free_traffic": {
+      "message": "Gratis GB's verkrijgen!"
+   },
+   "registration_error_compromised_password": {
+      "message": "Het wachtwoord dat je hebt ingevoerd is gevonden in een \u003Ca>openbare database\u003C/a> met gehackte wachtwoorden. Kies alsjeblieft een ander wachtwoord."
+   },
+   "registration_error_confirm_password": {
+      "message": "Wachtwoorden komen niet overeen"
+   },
+   "registration_error_default": {
+      "message": "Er is een fout opgetreden, probeer het later opnieuw"
+   },
+   "registration_error_min_length": {
+      "message": "Wachtwoord moet minimaal 8 karakters bevatten"
+   },
+   "registration_error_not_empty": {
+      "message": "Mag niet leeg zijn"
+   },
+   "registration_error_not_valid": {
+      "message": "De waarde is niet geldig"
+   },
+   "registration_error_unique_constraint": {
+      "message": "Deze waarde is al in gebruik"
+   },
+   "resend_confirm_registration_link_notification": {
+      "message": "Bevestigingslink opnieuw verzonden"
+   },
+   "settings_connect": {
+      "message": "Verbinden"
+   },
+   "settings_context_menus_title": {
+      "message": "AdGuard VPN-item toevoegen aan het contextmenu van de webbrowser"
+   },
+   "settings_disconnect": {
+      "message": "Verbinding verbreken"
+   },
+   "settings_dns_add_custom_server": {
+      "message": "Gebruiker DNS-server toevoegen"
+   },
+   "settings_dns_add_custom_server_address": {
+      "message": "DNS-server adres"
+   },
+   "settings_dns_add_custom_server_address_placeholder": {
+      "message": "Server-IP- of TLS-domeinnaam"
+   },
+   "settings_dns_add_custom_server_duplicate_address": {
+      "message": "DNS-server al toegevoegd"
+   },
+   "settings_dns_add_custom_server_info": {
+      "message": "\u003Ca>Lees meer\u003C/a> over DNS-servers"
+   },
+   "settings_dns_add_custom_server_invalid_address": {
+      "message": "Ongeldig DNS-serveradres"
+   },
+   "settings_dns_add_custom_server_name": {
+      "message": "Servernaam"
+   },
+   "settings_dns_add_custom_server_name_placeholder": {
+      "message": "Servernaam"
+   },
+   "settings_dns_add_custom_server_notification_success": {
+      "message": "Aangepaste DNS-server toegevoegd"
+   },
+   "settings_dns_add_custom_server_save": {
+      "message": "Opslaan"
+   },
+   "settings_dns_add_custom_server_save_and_select": {
+      "message": "Opslaan en selecteren"
+   },
+   "settings_dns_custom_servers": {
+      "message": "Gebruiker DNS-servers"
+   },
+   "settings_dns_delete_custom_server_notification": {
+      "message": "Aangepaste DNS-server verwijderd"
+   },
+   "settings_dns_edit_custom_server": {
+      "message": "Aangepaste DNS-server bewerken"
+   },
+   "settings_dns_label": {
+      "message": "DNS-server"
+   },
+   "settings_dns_popular_servers": {
+      "message": "Populaire DNS-servers"
+   },
+   "settings_dns_selector_adguard_desc": {
+      "message": "Verwijdert ads en trackers van je apparaat"
+   },
+   "settings_dns_selector_adguard_family_desc": {
+      "message": "AdGuard DNS + SafeSearch en blokkering van sites met inhoud voor volwassenen"
+   },
+   "settings_dns_selector_adguard_family_title": {
+      "message": "AdGuard Family Protection"
+   },
+   "settings_dns_selector_adguard_nonfiltering_desc": {
+      "message": "Beveiligde DNS zonder vastleggen van activiteiten (filtert geen advertenties en volgers)"
+   },
+   "settings_dns_selector_adguard_nonfiltering_title": {
+      "message": "AdGuard DNS niet gefilterd"
+   },
+   "settings_dns_selector_adguard_title": {
+      "message": "AdGuard DNS"
+   },
+   "settings_dns_selector_cisco_desc": {
+      "message": "DNS-server dat je systeem beschermt tegen malware"
+   },
+   "settings_dns_selector_cisco_title": {
+      "message": "Cisco OpenDNS"
+   },
+   "settings_dns_selector_cloudflare_desc": {
+      "message": "Gratis DNS service van Cloudflare"
+   },
+   "settings_dns_selector_cloudflare_title": {
+      "message": "Cloudflare DNS"
+   },
+   "settings_dns_selector_default_desc": {
+      "message": "Maakt gebruik van DNS-servers geleverd door AdGuard VPN"
+   },
+   "settings_dns_selector_default_title": {
+      "message": "Standaard"
+   },
+   "settings_dns_selector_google_desc": {
+      "message": "Gratis alternatieve DNS service via Google"
+   },
+   "settings_dns_selector_google_title": {
+      "message": "Google DNS"
+   },
+   "settings_dns_selector_quad9_desc": {
+      "message": "Gratis alternatieve DNS service met bescherming tegen phishing en spyware"
+   },
+   "settings_dns_selector_quad9_title": {
+      "message": "Quad9"
+   },
+   "settings_exclusion_actions": {
+      "message": "Acties"
+   },
+   "settings_exclusion_add": {
+      "message": "Toevoegen"
+   },
+   "settings_exclusion_add_from_list": {
+      "message": "Van de lijst"
+   },
+   "settings_exclusion_add_manually": {
+      "message": "Handmatig"
+   },
+   "settings_exclusion_add_manually_add": {
+      "message": "Handmatig toevoegen"
+   },
+   "settings_exclusion_add_subdomain": {
+      "message": "Subdomein toevoegen"
+   },
+   "settings_exclusion_add_website": {
+      "message": "Website toevoegen"
+   },
+   "settings_exclusion_change_mode_modal_title": {
+      "message": "Waar VPN is ingeschakeld"
+   },
+   "settings_exclusion_connection_problem": {
+      "message": "Verbindingsprobleem"
+   },
+   "settings_exclusion_domain_name": {
+      "message": "Domeinnaam:"
+   },
+   "settings_exclusion_general_mode_info": {
+      "message": "VPN staat \u003Cspan>overal\u003C/span> aan, behalve op onderstaande websites"
+   },
+   "settings_exclusion_general_title": {
+      "message": "Overal behalve uitgesloten websites"
+   },
+   "settings_exclusion_group_settings_subtitle_regular_mode": {
+      "message": "AdGuard VPN is uitgeschakeld voor de geselecteerde domeinen en subdomeinen"
+   },
+   "settings_exclusion_group_settings_subtitle_selective_mode": {
+      "message": "AdGuard VPN is ingeschakeld voor de geselecteerde domeinen en subdomeinen"
+   },
+   "settings_exclusion_import_button": {
+      "message": "Importeren"
+   },
+   "settings_exclusion_invalid_subdomain": {
+      "message": "Ongeldig subdomein"
+   },
+   "settings_exclusion_modal_cancel": {
+      "message": "Annuleren"
+   },
+   "settings_exclusion_modal_remove": {
+      "message": "Verwijderen"
+   },
+   "settings_exclusion_modal_save": {
+      "message": "Opslaan"
+   },
+   "settings_exclusion_nothing_found": {
+      "message": "Geen resultaten gevonden"
+   },
+   "settings_exclusion_placeholder_search": {
+      "message": "Zoeken"
+   },
+   "settings_exclusion_reset_button": {
+      "message": "Herstellen"
+   },
+   "settings_exclusion_reset_service_confirmation_message": {
+      "message": "De standaardinstellingen voor %hostname% herstellen? Hiermee worden alle ontbrekende domeinen hersteld en worden alle vinkjes aangezet."
+   },
+   "settings_exclusion_reset_to_default": {
+      "message": "Standaardwaarden herstellen"
+   },
+   "settings_exclusion_search_website": {
+      "message": "Website zoeken"
+   },
+   "settings_exclusion_selective_mode_info": {
+      "message": "VPN staat \u003Cspan>selectief\u003C/span> aan: alleen voor onderstaande websites"
+   },
+   "settings_exclusion_selective_mode_warning": {
+      "message": "Als u deze lijst leeg laat, wordt VPN voor alle websites uitgeschakeld"
+   },
+   "settings_exclusion_selective_title": {
+      "message": "Alleen op geselecteerde websites"
+   },
+   "settings_exclusion_status_all_subdomains": {
+      "message": "alle subdomeinen"
+   },
+   "settings_exclusion_status_domain": {
+      "message": "domein"
+   },
+   "settings_exclusion_status_subdomain": {
+      "message": "subdomein"
+   },
+   "settings_exclusion_subdomain_name": {
+      "message": "Subdomeinnaam:"
+   },
+   "settings_exclusion_title": {
+      "message": "Uitsluitingen"
+   },
+   "settings_exclusions_action_export": {
+      "message": "Uitsluitingen exporteren"
+   },
+   "settings_exclusions_action_import": {
+      "message": "Uitsluitingen importeren"
+   },
+   "settings_exclusions_action_remove_all": {
+      "message": "Alles verwijderen"
+   },
+   "settings_exclusions_add_invalid_domain": {
+      "message": "\"%url%\" is geen geldig domein. Wil je deze aan de lijst toevoegen?"
+   },
+   "settings_exclusions_remove_all_exclusions": {
+      "message": "Alle uitsluitingen verwijderen"
+   },
+   "settings_exclusions_remove_all_exclusions_message": {
+      "message": "Weet je zeker dat je door wilt gaan? De volledige lijst met uitsluitingen wordt verwijderd."
+   },
+   "settings_exclusions_undo": {
+      "message": "Ongedaan maken"
+   },
+   "settings_free_gbs": {
+      "message": "Gratis GB's"
+   },
+   "settings_free_gbs_add_device_info": {
+      "message": "Installeer AdGuard VPN op nog een apparaat, meld je aan bij je AdGuard-account en ontvang %your_gb% GB"
+   },
+   "settings_free_gbs_add_device_products_button": {
+      "message": "Ga naar producten"
+   },
+   "settings_free_gbs_add_device_title": {
+      "message": "Nog een apparaat toevoegen"
+   },
+   "settings_free_gbs_confirm_email_info": {
+      "message": "Klik op de e-mailbevestigingslink die we je hebben gestuurd bij het aanmelden en ontvang %your_gb% GB gratis VPN-verkeer. Als je ons e-mailbericht niet kunt vinden, klik dan op de onderstaande knop."
+   },
+   "settings_free_gbs_confirm_email_resend_link_button": {
+      "message": "Link opnieuw verzenden"
+   },
+   "settings_free_gbs_confirm_email_title": {
+      "message": "Je e-mailadres bevestigen"
+   },
+   "settings_free_gbs_devices_added_info": {
+      "message": "Gefeliciteerd met het installeren van AdGuard VPN op meerdere apparaten. Let op je veiligheid!"
+   },
+   "settings_free_gbs_devices_added_title": {
+      "message": "Apparaten toegevoegd"
+   },
+   "settings_free_gbs_get_GB": {
+      "message": "Krijg %num% GB"
+   },
+   "settings_free_gbs_go_back": {
+      "message": "Ga terug"
+   },
+   "settings_free_gbs_invite_friend": {
+      "message": "Een vriend uitnodigen"
+   },
+   "settings_free_gbs_invite_friend_complete": {
+      "message": "Je hebt %num% GB"
+   },
+   "settings_free_gbs_invite_friend_completed_thank_you": {
+      "message": "Bedankt voor het gebruiken van al je uitnodigingen!"
+   },
+   "settings_free_gbs_invite_friend_get_GB": {
+      "message": "Krijg tot %num% GB"
+   },
+   "settings_free_gbs_subtitle": {
+      "message": "Voltooi de taken om gratis VPN-verkeer te krijgen!"
+   },
+   "settings_free_gbs_task_complete": {
+      "message": "Je hebt %num% GB"
+   },
+   "settings_help_us_improve_description": {
+      "message": "AdGuard VPN toestaan om crash rapporten, technische en interactieve data te verzamelen. Dit is anoniem."
+   },
+   "settings_help_us_improve_title": {
+      "message": "Help ons te verbeteren"
+   },
+   "settings_quick_connect_fastest": {
+      "message": "Snelste locatie"
+   },
+   "settings_quick_connect_last_used": {
+      "message": "Laatst gebruikte locatie"
+   },
+   "settings_quick_connect_subtitle": {
+      "message": "VPN-locatie geselecteerd wanneer je op Verbinden klikt"
+   },
+   "settings_quick_connect_title": {
+      "message": "Snel verbinding maken"
+   },
+   "settings_rate_us": {
+      "message": "Waardeer ons"
+   },
+   "settings_referral_copy_link": {
+      "message": "Uitnodigingslink kopiëren"
+   },
+   "settings_referral_info": {
+      "message": "Ontvang een maand lang %your_gb% GB gratis VPN-verkeer voor elke vriend die zich via jouw uitnodiging aanmeldt, tot in totaal %total_gb% GB. Je vriend krijgt ook gratis %friend_gb% GB extra."
+   },
+   "settings_referral_invite_link": {
+      "message": "Uitnodigingslink"
+   },
+   "settings_referral_invited_friends": {
+      "message": "Uitgenodigde vrienden %count%/%limit%"
+   },
+   "settings_referral_link_copied": {
+      "message": "Uitnodigingslink gekopieerd naar klembord"
+   },
+   "settings_theme_dark": {
+      "message": "Donker"
+   },
+   "settings_theme_label": {
+      "message": "Thema"
+   },
+   "settings_theme_light": {
+      "message": "Licht"
+   },
+   "settings_theme_system": {
+      "message": "Systeemstandaard"
+   },
+   "settings_title": {
+      "message": "Instellingen"
+   },
+   "settings_vpn_connecting": {
+      "message": "Verbinden..."
+   },
+   "settings_vpn_disabled": {
+      "message": "Verbinding verbroken"
+   },
+   "settings_vpn_enabled": {
+      "message": "Verbonden"
+   },
+   "settings_webrtc_desc": {
+      "message": "WebRTC is een speciaal programma in de meeste internetbrowsers waarmee websites van derden uw echte IP-adres kunnen detecteren en gebruiken om u te identificeren"
+   },
+   "settings_webrtc_label": {
+      "message": "Blokkeer WebRTC"
+   },
+   "short_name": {
+      "message": "AdGuard VPN"
+   }
+}

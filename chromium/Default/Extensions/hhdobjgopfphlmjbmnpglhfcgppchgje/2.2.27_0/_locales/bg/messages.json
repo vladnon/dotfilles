@@ -1,0 +1,153 @@
+{
+   "about_title": {
+      "message": "Относно"
+   },
+   "account_version": {
+      "message": "Версия"
+   },
+   "auth_password": {
+      "message": "Парола"
+   },
+   "auth_password_confirm": {
+      "message": "Потвърдете паролата"
+   },
+   "authentication_error_wrong_credentials": {
+      "message": "Невалидна парола"
+   },
+   "description": {
+      "description": "TEXT MAX LENGTH: 132",
+      "message": "Use AdGuard VPN to surf the Internet fast, safely, and securely. Protect your privacy and stay anonymous with our private VPN proxy."
+   },
+   "global_error_learn_more": {
+      "message": "Научи повече"
+   },
+   "global_error_try_again": {
+      "message": "Опитай пак"
+   },
+   "name": {
+      "message": "AdGuard VPN — free & secure proxy"
+   },
+   "options_bug_report_include_log_label": {
+      "message": "Включване на диагностичния отчет в съобщението"
+   },
+   "options_bug_report_textarea_label": {
+      "message": "Съобщение"
+   },
+   "options_exclusions_delete_cancel_button": {
+      "message": "Отказ"
+   },
+   "options_support_faq_title": {
+      "message": "ЧЗВ"
+   },
+   "options_support_title": {
+      "message": "Поддръжка"
+   },
+   "popup_connections_limit_description_cta_button_free": {
+      "message": "Абонирай се"
+   },
+   "popup_connections_limit_description_cta_button_premium": {
+      "message": "Научи повече"
+   },
+   "popup_newsletter_subscribe": {
+      "message": "Абонирай се"
+   },
+   "popup_onboarding_next": {
+      "message": "Следващ"
+   },
+   "popup_rate_modal_cancel_button": {
+      "message": "Отказ"
+   },
+   "popup_server_error_popup_cancel": {
+      "message": "Отказ"
+   },
+   "popup_server_error_popup_close": {
+      "message": "Затвори"
+   },
+   "popup_settings_feedback": {
+      "message": "Обратна връзка"
+   },
+   "popup_settings_open_settings": {
+      "message": "Настройки"
+   },
+   "privacy_policy": {
+      "message": "Правила за поверителност"
+   },
+   "rate_hide": {
+      "message": "Скрий"
+   },
+   "settings_dns_add_custom_server_name": {
+      "message": "Име на сървъра"
+   },
+   "settings_dns_add_custom_server_name_placeholder": {
+      "message": "Име на сървъра"
+   },
+   "settings_dns_add_custom_server_save": {
+      "message": "Запази"
+   },
+   "settings_dns_selector_adguard_family_title": {
+      "message": "AdGuard DNS Family Protection"
+   },
+   "settings_dns_selector_adguard_title": {
+      "message": "AdGuard DNS"
+   },
+   "settings_dns_selector_cloudflare_title": {
+      "message": "Cloudflare DNS"
+   },
+   "settings_dns_selector_default_title": {
+      "message": "По подразбиране"
+   },
+   "settings_dns_selector_google_title": {
+      "message": "Google DNS"
+   },
+   "settings_dns_selector_quad9_title": {
+      "message": "Quad9"
+   },
+   "settings_exclusion_actions": {
+      "message": "Действия"
+   },
+   "settings_exclusion_import_button": {
+      "message": "Импортирай"
+   },
+   "settings_exclusion_modal_cancel": {
+      "message": "Отказ"
+   },
+   "settings_exclusion_modal_remove": {
+      "message": "Премахни"
+   },
+   "settings_exclusion_modal_save": {
+      "message": "Запази"
+   },
+   "settings_exclusion_placeholder_search": {
+      "message": "Търси"
+   },
+   "settings_exclusion_reset_button": {
+      "message": "Нулиране"
+   },
+   "settings_exclusion_title": {
+      "message": "Изключения"
+   },
+   "settings_exclusions_action_remove_all": {
+      "message": "Премахни всички"
+   },
+   "settings_exclusions_undo": {
+      "message": "Отмени"
+   },
+   "settings_theme_dark": {
+      "message": "Тъмна тема"
+   },
+   "settings_theme_label": {
+      "message": "Тема"
+   },
+   "settings_theme_light": {
+      "message": "Светла тема"
+   },
+   "settings_title": {
+      "message": "Настройки"
+   },
+   "settings_webrtc_label": {
+      "message": "Блокирай WebRTC"
+   },
+   "short_name": {
+      "message": "AdGuard VPN"
+   }
+}

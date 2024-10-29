@@ -1,0 +1,351 @@
+{
+   "about_title": {
+      "message": "درباره"
+   },
+   "account_title": {
+      "message": "اکانت"
+   },
+   "account_version": {
+      "message": "نسخه"
+   },
+   "auth_confirm": {
+      "message": "تایید"
+   },
+   "auth_password": {
+      "message": "رمزعبور"
+   },
+   "auth_password_confirm": {
+      "message": "تأیید رمزعبور"
+   },
+   "auth_recover": {
+      "message": "رمزعبور را فراموش کرده اید؟"
+   },
+   "auth_sign_in_button": {
+      "message": "ورود"
+   },
+   "auth_sign_in_provider_adguard": {
+      "message": "با حساب AdGuard خود پیش روید"
+   },
+   "auth_sign_in_provider_adguard_label": {
+      "message": "ایمیل"
+   },
+   "auth_sign_in_provider_apple": {
+      "message": "با حساب اپل پیش روید"
+   },
+   "auth_sign_in_provider_facebook": {
+      "message": "با حساب فیسبوک پیش روید"
+   },
+   "auth_sign_in_provider_google": {
+      "message": "با حساب گوگل پیش روید"
+   },
+   "auth_sign_up_info": {
+      "message": "حساب AdGuard خود را ایجاد کنید"
+   },
+   "auth_title": {
+      "message": "احراز هویت"
+   },
+   "auth_your_password": {
+      "message": "یک رمز عبور وارد کنید"
+   },
+   "authentication_error_account_disabled": {
+      "message": "حساب غیرفعال شده است"
+   },
+   "authentication_error_wrong_credentials": {
+      "message": "رمزعبور اشتباه است"
+   },
+   "confirm_email_code_placeholder": {
+      "message": "شامل اعداد و حروف است"
+   },
+   "context_menu_debug_level": {
+      "message": "ثبت اشکالزدایی"
+   },
+   "context_menu_export_logs": {
+      "message": "خروجیگیری وقایع"
+   },
+   "description": {
+      "description": "TEXT MAX LENGTH: 132",
+      "message": "Use AdGuard VPN to surf the Internet fast, safely, and securely. Protect your privacy and stay anonymous with our private VPN proxy."
+   },
+   "eula": {
+      "message": "توافقنامه نهایی با کاربر"
+   },
+   "global_error_learn_more": {
+      "message": "بیشتر بدانید"
+   },
+   "global_error_title": {
+      "message": "خطا رخ داده"
+   },
+   "global_error_try_again": {
+      "message": "امتحان دوباره"
+   },
+   "name": {
+      "message": "AdGuard VPN — free & secure proxy"
+   },
+   "options_bug_report_email_label": {
+      "message": "ایمیل"
+   },
+   "options_bug_report_include_log_label": {
+      "message": "شامل یک گزارش تشخیصی به این پیام"
+   },
+   "options_bug_report_send_button": {
+      "message": "ارسال"
+   },
+   "options_bug_report_textarea_label": {
+      "message": "پيام"
+   },
+   "options_exclusions_delete_cancel_button": {
+      "message": "لغو"
+   },
+   "options_report_bug_title": {
+      "message": "گزارش مشکل"
+   },
+   "options_support_faq_title": {
+      "message": "پرسش و پاسخ"
+   },
+   "options_support_feedback_description": {
+      "message": "ارائه پیشنهادات و درخواست برای امکانات برنامه"
+   },
+   "options_support_report_title": {
+      "message": "گزارش مشکل"
+   },
+   "options_support_title": {
+      "message": "پشتيباني"
+   },
+   "popup_auth_policy_agreement_continue_button": {
+      "message": "ادامه"
+   },
+   "popup_connections_limit_description_cta_button_free": {
+      "message": "اشتراک"
+   },
+   "popup_connections_limit_description_cta_button_premium": {
+      "message": "بیشتر بدانید"
+   },
+   "popup_limited_offer_details_btn": {
+      "message": "گرفتن این معامله"
+   },
+   "popup_newsletter_no_subscribe": {
+      "message": "خیر،ممنونم"
+   },
+   "popup_newsletter_subscribe": {
+      "message": "اشتراک"
+   },
+   "popup_no_locations_button": {
+      "message": "جستجو دوباره"
+   },
+   "popup_onboarding_next": {
+      "message": "بعدي"
+   },
+   "popup_onboarding_unique_protocol": {
+      "message": "VPN مطمئن"
+   },
+   "popup_rate_modal_cancel_button": {
+      "message": "لغو"
+   },
+   "popup_server_error_popup_cancel": {
+      "message": "لغو"
+   },
+   "popup_server_error_popup_close": {
+      "message": "بستن"
+   },
+   "popup_settings_feedback": {
+      "message": "دیدگاه"
+   },
+   "popup_settings_open_settings": {
+      "message": "تنظیمات"
+   },
+   "popup_skeleton_status": {
+      "message": "جستجوی مکان‌ها..."
+   },
+   "popup_traffic_limited_speed": {
+      "message": "سرعت محدود"
+   },
+   "popup_upgrade_screen_all_locations_desc": {
+      "message": "6 قاره و ده ها کشور. شهری را انتخاب نمایید و به طور امن در شبکه اینترنت بگردید!"
+   },
+   "popup_upgrade_screen_unlimited_data_desc": {
+      "message": "تنها محدودیت این است که داده شما هرگز\nاشتراک نیافته است. تا سرحد رضایتتان در اینترنت بگردید!"
+   },
+   "popup_upgrade_screen_upgrade_button": {
+      "message": "ارتقاء"
+   },
+   "popup_vpn_blocked_error_details_description": {
+      "message": "اگر مشکل اتصال دارید، توصیه می‌کنیم به نسخه دسکتاپ تغییر دهید — نرم‌تر عمل می‌کند"
+   },
+   "popup_vpn_blocked_error_details_get_app_button": {
+      "message": "نسخه دسکتاپ را دریافت کنید"
+   },
+   "popup_vpn_blocked_error_details_later_button": {
+      "message": "بعد"
+   },
+   "popup_vpn_blocked_error_details_title": {
+      "message": "نسخه دسکتاپ پایدارتر است"
+   },
+   "popup_vpn_blocked_error_notice": {
+      "message": "ارتباط با جریان ارسالی DNS ندارد?"
+   },
+   "premium_upgrade": {
+      "message": "ارتقاء"
+   },
+   "privacy_policy": {
+      "message": "سیاست حریم خصوصی"
+   },
+   "rate_hide": {
+      "message": "پنهان کن"
+   },
+   "registration_error_confirm_password": {
+      "message": "گذرواژه ها مطابقت ندارند"
+   },
+   "registration_error_min_length": {
+      "message": "این مقدار خیلی کوتاه است. آن باید 8 نویسه یا بیشتر داشته باشد."
+   },
+   "settings_disconnect": {
+      "message": "قطع ارتباط"
+   },
+   "settings_dns_add_custom_server": {
+      "message": "افزودن سرور DNS دستی"
+   },
+   "settings_dns_add_custom_server_address": {
+      "message": "آدرس DNS سرور"
+   },
+   "settings_dns_add_custom_server_info": {
+      "message": "در مورد سرورهای DNS \u003Ca>بیشتر بخوانید\u003C/a>"
+   },
+   "settings_dns_add_custom_server_invalid_address": {
+      "message": "آدرس DNS نامعتبر"
+   },
+   "settings_dns_add_custom_server_name": {
+      "message": "نام سرور"
+   },
+   "settings_dns_add_custom_server_name_placeholder": {
+      "message": "نام سرور"
+   },
+   "settings_dns_add_custom_server_notification_success": {
+      "message": "سرور DNS سفارشی اضافه شد"
+   },
+   "settings_dns_add_custom_server_save": {
+      "message": "ذخیره"
+   },
+   "settings_dns_add_custom_server_save_and_select": {
+      "message": "ذخیره و انتخاب"
+   },
+   "settings_dns_custom_servers": {
+      "message": "سرورهای DNS سفارشی"
+   },
+   "settings_dns_delete_custom_server_notification": {
+      "message": "سرور DNS سفارشی حذف شد"
+   },
+   "settings_dns_edit_custom_server": {
+      "message": "افزودن سرور DNS دلخواه"
+   },
+   "settings_dns_label": {
+      "message": "سرور DNS"
+   },
+   "settings_dns_popular_servers": {
+      "message": "ارائه دهندگان معروف DNS:"
+   },
+   "settings_dns_selector_adguard_family_desc": {
+      "message": "دی اِن اِس AdGuard با جستجوی اَمن و محدودسازی محتوای بزرگسال"
+   },
+   "settings_dns_selector_adguard_family_title": {
+      "message": "حفاظت خانواده AdGuard DNS"
+   },
+   "settings_dns_selector_adguard_title": {
+      "message": "AdGuard DNS"
+   },
+   "settings_dns_selector_cisco_desc": {
+      "message": "سرور دی اِن اِس با فیلترینگ سفارشی سازی و حفاظت از رایانه در برابر بد افزار"
+   },
+   "settings_dns_selector_cisco_title": {
+      "message": "Cisco OpenDNS"
+   },
+   "settings_dns_selector_cloudflare_desc": {
+      "message": "سرویس DNS رایگان با Cloudflare"
+   },
+   "settings_dns_selector_cloudflare_title": {
+      "message": "Cloudflare DNS"
+   },
+   "settings_dns_selector_default_title": {
+      "message": "پيش فرض"
+   },
+   "settings_dns_selector_google_desc": {
+      "message": "سرویس دی اِن اِس جایگزین رایگان از گوگل"
+   },
+   "settings_dns_selector_google_title": {
+      "message": "Google DNS"
+   },
+   "settings_dns_selector_quad9_desc": {
+      "message": "سرویس DNS جایگزین رایگان برای حفاظت در برابر فیشینگ و جاسوس افزار"
+   },
+   "settings_dns_selector_quad9_title": {
+      "message": "Quad9"
+   },
+   "settings_exclusion_actions": {
+      "message": "اقدامات"
+   },
+   "settings_exclusion_add": {
+      "message": "افزودن"
+   },
+   "settings_exclusion_add_website": {
+      "message": "افزودن یک وبسایت"
+   },
+   "settings_exclusion_import_button": {
+      "message": "وارد کردن"
+   },
+   "settings_exclusion_modal_cancel": {
+      "message": "لغو"
+   },
+   "settings_exclusion_modal_remove": {
+      "message": "حذف"
+   },
+   "settings_exclusion_modal_save": {
+      "message": "ذخیره"
+   },
+   "settings_exclusion_placeholder_search": {
+      "message": "جستجو"
+   },
+   "settings_exclusion_reset_button": {
+      "message": "ريست"
+   },
+   "settings_exclusion_reset_to_default": {
+      "message": "بازگرداندن به پیش فرض"
+   },
+   "settings_exclusion_title": {
+      "message": "مدیریت استثنائات..."
+   },
+   "settings_exclusions_action_remove_all": {
+      "message": "حذف همه"
+   },
+   "settings_exclusions_undo": {
+      "message": "آندو"
+   },
+   "settings_free_gbs_add_device_products_button": {
+      "message": "برو به محصولات"
+   },
+   "settings_free_gbs_go_back": {
+      "message": "برگرد"
+   },
+   "settings_theme_dark": {
+      "message": "پوسته تیره"
+   },
+   "settings_theme_label": {
+      "message": "پوسته"
+   },
+   "settings_theme_light": {
+      "message": "پوسته روشن"
+   },
+   "settings_theme_system": {
+      "message": "پیش فرض سیستم"
+   },
+   "settings_title": {
+      "message": "تنظیمات"
+   },
+   "settings_vpn_connecting": {
+      "message": "درحال اتصال..."
+   },
+   "settings_webrtc_label": {
+      "message": "مسدودسازی وب آر تی سی"
+   },
+   "short_name": {
+      "message": "AdGuard VPN"
+   }
+}

@@ -1,29 +1,26 @@
 #!/bin/bash
 
-echo 'Installing all apps...'
 
+sudo -i
 # установка приложений, которые есть в репозитории pacman
-sudo pacman -S --noconfirm git polybar pavucontrol binutils gcc dkms libglvnd  networkmanager bluez bluez-utils nitrogen rofi alacritty nvidia-settings nvidia thunar bspwm sxhkd xdg-user-dirs
-mkdir -p /home/$USER/.config/bspwm/
-mkdir -p /home/$USER/.config/sxhkd/
-cp /usr/share/doc/bspwm/examples/bspwmrc /home/$USER/.config/bspwm/
-cp /usr/share/doc/bspwm/examples/sxhkdrc /home/$USER/.config/sxhkd/
+pacman -S git polybar pavucontrol pulseaudio binutils gcc dkms libglvnd networkmanager bluez bluez-utils nitrogen rofi alacritty nvidia-settings nvidia thunar bspwm sxhkd xdg-user-dirs dkms nvim neofetch
+mkdir -p /$HOME/.config/bspwm/
+mkdir -p /$HOME/.config/sxhkd/
+cp /usr/share/doc/bspwm/examples/bspwmrc /$HOME/.config/bspwm/
+cp /usr/share/doc/bspwm/examples/sxhkdrc /$HOME/.config/sxhkd/
 xdg-user-dirs-update
 
-echo 'All pacman apps installed successfully, start installing yay'
 
 # установка yay
-cd /home/$USER/Downloads/
+cd /$HOME/Downloads/
 git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si --noconfirm
 cd
 
-echo 'yay installed successfully, start installing aur apps'
-yay -S --noconfirm telegram-desktop visual-studio-code-bin chromium font-manager cava cmatrix
+yay -S telegram-desktop chromium font-manager cava-git cmatrix
 
-echo 'aur installed successfully, start cloning config repo'
-cd /home/$USER/Documents/
+cd /$HOME/Documents/
 
 if [ -d "dotfilles" ]; then
     cd dotfilles
@@ -32,6 +29,5 @@ else
     git clone https://github.com/Vlad1ckPON/dotfilles -b main
 fi
  
-cp -r /home/$USER/Documents/dotfilles/* /home/$USER/.config/
+cp -r /$HOME/Documents/dotfilles/* /home/$USER/.config/
 
-echo 'installing finished successfully, please reboot your device'
