@@ -2,7 +2,7 @@
 
 # Autostarts
 sxhkd &
-picom -b& 
+picom -b --config ~/.config/picom/picom.conf& 
 xsetroot -cursor_name left_ptr &
 polybar bar1 &
 alacritty -e nvim &
@@ -26,6 +26,7 @@ bspc config normal_border_color "#1A1B26"         # Рамки неактивн�
 bspc config active_border_color "#414868"         # Рамки активных окон - чуть светлее для легкого акцента
 bspc config focused_border_color "#7899FA"        # Рамки выбранных окон - яркий синий для выделения
 bspc config presel_feedback_color "#BB9AF7"       # Цвет предпросмотра - нежный фиолетовый, подчёркивающий стиль
+bspc config remove_disabled_monitors falsk
 
 bspc config focus_follows_pointer true
 
