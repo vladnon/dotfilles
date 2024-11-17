@@ -1,10 +1,7 @@
 configuration {
-	modi:                       "drun,run,filebrowser,window";
+	modi:                       "drun";
     show-icons:                 true;
-    display-drun:               "Apps"; display-run:                "Run"; display-filebrowser:        "Files";
-    display-window:             "Window";
-		drun-display-format:        "{name}";
-		icon-theme: 								"Papirus";	
+	icon-theme: 				"Papirus";	
 	window-format:              "{w} · {c} · {t}";
 }
 @import "~/.config/rofi/colors.rasi"
@@ -19,7 +16,8 @@ window {
     height: 					 450px;
     x-offset:                    center;
     y-offset:                    center;
-    border: 					 0;
+    border: 					 4;
+    border-color:                #7899FA;
 
     /* properties for all widgets */
     enabled:                     true;
@@ -38,12 +36,12 @@ mainbox {
 }
 
 imagebox {
-    border:                      5px;
+    border:                      2px;
     border-color:                @bg;
     padding:                     10px;
     border-radius: 				 15px;
     background-color:            transparent;
-    background-image:            url("~/Downloads/steppenwolf.jpg", height);
+    background-image:            url("~/Pictures/pixel-car.png", height);
     orientation:                 vertical;
     children:                    [ "inputbar", "dummy", "mode-switcher" ];
 }
@@ -87,24 +85,7 @@ entry {
     placeholder-color:           inherit;
 }
 
-/*****----- Mode Switcher -----*****/
-mode-switcher{
-    enabled:                     true;
-    spacing:                     20px;
-    background-color:            transparent;
-    text-color:                  @fg;
-}
-button {
-    padding:                     15px;
-    border-radius:               10px;
-    background-color:            @bg;
-    text-color:                  inherit;
-    cursor:                      pointer;
-}
-button selected {
-    background-color:            @bg;
-    text-color:                  @fg;
-}
+
 
 /*****----- Listview -----*****/
 listview {
