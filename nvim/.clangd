@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: -style="{IndentWidth: 4, TabWidth: 4, UseTab: Never}"
