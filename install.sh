@@ -34,4 +34,7 @@ fi
  
 cp -r /home/$USER/Documents/dotfilles/* /home/$USER/.config/
 
+cd /home/$USER/Documents/
+git clone https://github.com/Vlad1ckPON/test-coding
+
 echo 'installing finished successfully, please reboot your device'
