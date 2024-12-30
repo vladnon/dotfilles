@@ -20,7 +20,7 @@ makepkg -si --noconfirm
 cd
 
 echo 'yay installed successfully, start installing aur apps'
-yay -S --noconfirm telegram-desktop  chromium font-manager cava cmatrix
+yay -S --noconfirm telegram-desktop chromium font-manager cava cmatrix
 
 echo 'aur installed successfully, start cloning config repo'
 cd /home/$USER/Documents/
@@ -34,7 +34,6 @@ fi
  
 cp -r /home/$USER/Documents/dotfilles/* /home/$USER/.config/
 
-cd /home/$USER/Documents/
-git clone https://github.com/Vlad1ckPON/test-coding
+cp -r /home/$USER/Documents/dotfilles/wallpapers/ /home/$USER/Pictures
 
 echo 'installing finished successfully, please reboot your device'
