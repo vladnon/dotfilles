@@ -155,14 +155,14 @@ alt + super + {h,j,k,l}
 	bspc node -z left 20 0; bspc node -z right 20 0}
 	
 
-# Custom google-chrome
-alt + g
-	/usr/bin/google-chrome-stable
-
 # Custom flameshot
 super + shift + f
 	flameshot gui
 
+# set random photo from ~/Pictures
+ctrl + r
+	python3 $HOME/Documents/test-coding/wallpapers/wallpapers_script.py
+
 # Custom betterlockscreen
-super + l
-	betterlockscreen -l dim	
+ctrl + l
+	/usr/bin/betterlockscreen  -l
