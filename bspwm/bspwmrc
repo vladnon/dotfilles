@@ -3,21 +3,18 @@
 # Autostarts
 sxhkd &
 picom -b --config ~/.config/picom/picom.conf& 
-xsetroot -cursor_name left_ptr &
-bash $HOME/.config/bspwm/scripts/launch_nvim.sh
 polybar bar1 &
-telegram-desktop & 
+# telegram-desktop & 
 chromium &
 yandex-music &
-alacritty & 
-
+# alacritty & 
 xrandr --output DP-0 --mode 1920x1080 --rate 165 &
 nitrogen --random --set-auto &
 bspc monitor -d 1 2 3 4 5 6 
 
 
 bspc config border_width         3
-bspc config window_gap          10
+bspc config window_gap          14
 bspc config split_ratio          0.5
 bspc config borderless_monocle   true
 # bspc config gapless_monocle      true
@@ -32,10 +29,11 @@ bspc config focus_follows_pointer true
 
 # Desktop 1
 bspc rule -a chromium  desktop='^1' follow=on focus=on;
-bspc rule -a TelegramDesktop desktop='^1' follow=off focus=on;
+# bspc rule -a TelegramDesktop desktop='^1' follow=off focus=on;
 
 
 bspc rule -a Alacritty state=floating center=on;
+bspc rule -a Gpicview state=floating center=on rect=700x700;
 
 # Desktop 3
 bspc rule -a YandexMusic desktop='^3' focus=off follow=off state=floating center=on locked=on;
