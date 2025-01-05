@@ -3,7 +3,7 @@
 echo 'Installing all apps...'
 
 # установка приложений, которые есть в репозитории pacman
-sudo pacman -S --noconfirm git polybar pavucontrol binutils gcc dkms libglvnd  networkmanager bluez bluez-utils nitrogen rofi alacritty nvidia-settings nvidia thunar bspwm sxhkd xdg-user-dirs
+sudo pacman -S --noconfirm git polybar pavucontrol binutils gcc dkms libglvnd  networkmanager bluez bluez-utils nitrogen rofi alacritty nvidia-settings nvidia-dkms nvidia thunar bspwm sxhkd xdg-user-dirs rofi-power-menu rofi-calc gpicview zoxide eza thefuck 
 mkdir -p /home/$USER/.config/bspwm/
 mkdir -p /home/$USER/.config/sxhkd/
 cp /usr/share/doc/bspwm/examples/bspwmrc /home/$USER/.config/bspwm/
