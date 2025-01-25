@@ -2,16 +2,17 @@ configuration {
 	modi:                       "drun";
     show-icons:                 true;
 	icon-theme: 				"Papirus";	
-	window-format:              "{w} · {c} · {t}"; }
+	window-format:              "{w} · {c} · {t}";
+}
 @import "~/.config/rofi/colors.rasi"
 
 /*****----- Main Window -----*****/
 
 window {
 		
-	font: 									     "JetBrainsMono 10";
+	font: 						 "JetBrainsMono 11";
     /* properties for window widget */
-    width:                       730px;
+    width:                       600px;
     height: 					 350px;
     x-offset:                    center;
     y-offset:                    center;
@@ -20,7 +21,7 @@ window {
 
     /* properties for all widgets */
     enabled:                     true;
-    border-radius:               15px;
+    border-radius:               10px;
     cursor:                      "default";
     background-color:            @bg;
 }
@@ -31,7 +32,7 @@ mainbox {
     spacing:                     0px;
     background-color:            transparent;
     orientation:                 horizontal;
-    children:                    [ "imagebox", "listbox" ];
+    children:                    ["listbox" ];
 }
 
 imagebox {
@@ -40,18 +41,18 @@ imagebox {
     padding:                     10px;
     border-radius: 				 15px;
     background-color:            transparent;
-    background-image:            url("~/dotfiles/pixel-car.png", height);
+    background-image:            url("~/Pictures/basement.jpg", height);
     orientation:                 vertical;
-    children:                    [ "inputbar", "dummy", "mode-switcher" ];
+    children:                    [ "inputbar", "dummy"];
 }
 
 listbox {
-    width:                       10px;
+    width:                       1px;
     spacing:                     20px;
     padding:                     20px;
     background-color:            transparent;
     orientation:                 vertical;
-    children:                    [ "message", "listview" ];
+    children:                    [ "inputbar" , "message", "listview" ];
 }
 
 dummy {

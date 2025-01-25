@@ -9,7 +9,7 @@
 
 /*****----- Configuration -----*****/
 configuration {
-    show-icons:      false;
+    show-icons:      true;
     me-select-entry: "MousePrimary";
     me-accept-entry: "!MousePrimary";
 }

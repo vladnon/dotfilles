@@ -11,6 +11,9 @@ super + Return
 super + d
 	rofi -show drun
 
+super + shift + c
+	rofi -show calc -modi calc
+
 # make sxhkd reload its configuration files:
 super + Escape
 	pkill -USR1 -x sxhkd
@@ -130,7 +133,7 @@ super + ctrl + alt + space
 
 
 ctrl + Return
-	shutdown -h +0
+	rofi -show power-menu -modi power-menu:rofi-power-menu
 # expand a window by moving one of its side outward
 #super + alt + {h,j,k,l}
 #	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
@@ -162,6 +165,9 @@ super + shift + f
 # set random photo from ~/Pictures
 ctrl + r
 	python3 $HOME/Documents/test-coding/wallpapers/wallpapers_script.py
+
+alt + c
+	python3 $HOME/Documents/test-coding/change_picom_config/main.py
 
 # Custom betterlockscreen
 ctrl + l
